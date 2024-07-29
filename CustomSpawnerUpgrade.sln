@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomSpawnerUpgrade", "CustomSpawnerUpgrade.csproj", "{E95B9898-BE31-4058-96E8-4211E5815752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95B9898-BE31-4058-96E8-4211E5815752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95B9898-BE31-4058-96E8-4211E5815752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95B9898-BE31-4058-96E8-4211E5815752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95B9898-BE31-4058-96E8-4211E5815752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6386755A-C329-46A7-A0EC-6378F89157D2}
+	EndGlobalSection
+EndGlobal
